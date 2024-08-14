@@ -1,5 +1,8 @@
 <div>
-    <a src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+    <a href="https://github.com/Lennyie">
+        <img height="100em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+        <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true">
+    </a>
 </div>
 
 
