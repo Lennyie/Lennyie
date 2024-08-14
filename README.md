@@ -15,8 +15,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lennyie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=true" height="103" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lennyie&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="103" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lennyie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=true" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lennyie&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="130" alt="languages graph"  />
 </div>
 
 ###
